@@ -16,7 +16,7 @@ determine whether further testing or action is necessary.
 
 ## Apps Features
 
-We already improved the version for this apps and will keep continues to grow in the future. Let’s take a look what's new on our MyBMI Apps. The app we developed, has the functionality as below:
+We already improved the version for this apps and will keep continues to grow in the future. The app we developed, has the functionality as below:
 
 - Save & Delete BMI Record
   - Every time users calculate their latest BMI, the record will be automatically added to the database.
