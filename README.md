@@ -6,8 +6,7 @@ Using MIT App Inventor, we managed to do this project where we are tasked to dev
 
 ## MyBMI
 
-My Body Mass Index (BMI) Apps can be used to calculate your BMI value by inserting your weight and height. BMI is a scale that measures a 
-person's leanness or corpulence based on their height and weight. It is used to estimate tissue mass. It is commonly used as a general 
+My Body Mass Index (MyBMI) Apps can be used to calculate your BMI value by inserting your weight and height. It is commonly used as a general 
 indicator of whether a person's body weight is appropriate for their height. Specifically, the BMI value is used to determine whether a 
 person is underweight, normal weight, overweight, or obese, based on where the value falls within the range. These BMI levels vary by 
 geography and age, and are frequently further subdivided into subcategories like severely underweight or very severely obese. Being overweight 
