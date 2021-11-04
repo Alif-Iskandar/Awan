@@ -9,3 +9,10 @@ The app we developed, has the functionality as below:
  * Simple Pedometer to count walking steps
  * User friendly interface
  
+Group Member:
+
+ * Muhammad Irfan Syahmi bin Mohd Sazni  1181101191
+ * Muhammad Haiqal bin Bahrudin          1181100453
+ * Mohammad Hizzudin bin Mohd Hanafiah   1181101153
+ * Muhammad Hakimi bin Hamidzul          1181101188
+ * Muhammad Alif Iskandar bin Eddie      1171103647
