@@ -1,6 +1,7 @@
 # Usage Manual
 
-Guideline and descriptions for users on how to use MyBMI app.
+* Guideline and descriptions for users on how to use MyBMI app.
+* Click [here](https://docs.google.com/document/d/1lZkKTbxTo-WkWk3GTkA3bg0QqJtVGKT_JQUS9P_SXms/edit#heading=h.59mzrpp7nhd8) to know more about MyBMI User Interface.
 
 ## Installation
 
