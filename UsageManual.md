@@ -21,14 +21,14 @@ Guideline and descriptions for users on how to use MyBMI app.
 6. Go to **Project** again, select **My projects** and click on **"MyBMIUSR_Awan.aia"**.
 7. After the code has fully opened, click **Connect** on the menu bar, and select **AI Companion**.
 8. **AI Companion** page will give you a **QR Code** to scan and **Code** to be inserted in **MIT AI2 Companion**.
-9. For more information on how to use other method to run the app, you may consider reading [Setting Up App Inventor](https://appinventor.mit.edu/explore/ai2/setup)
+9. For more information on how to use other method to run the app, you may consider reading [Setting Up App Inventor](https://appinventor.mit.edu/explore/ai2/setup).
 
 * Phone Setup
 1. Go to playstore and type **MIT AI2 Companion**.
 2. Click **Install**.
 3. After your are done, open the apps and scan the **QR Code** or put the **Code** given from the **AI Companion**.
 4. Wait for a while and the apps can be used.
-5. For more information on how to connect the app, you may consider reading [Connect over WiFi](http://appinventor.mit.edu/explore/ai2/setup-device-wifi)
+5. For more information on how to connect the app, you may consider reading [Connect over WiFi](http://appinventor.mit.edu/explore/ai2/setup-device-wifi).
 
 ## MyBMI User Guideline
 
