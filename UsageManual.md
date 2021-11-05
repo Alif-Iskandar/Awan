@@ -16,7 +16,7 @@ Guideline and descriptions for users on how to use MyBMI app.
 1. Go to [MIT App Inventor](http://appinventor.mit.edu/) official website.
 2. Cick on the **Create Apps!** button orange in colour.
 3. Login to your MIT App Inventor account. If you do not have any account before, create one.
-4. Click on **Project** at the menu bar, then click on **Import project(.aia) from my computer...***.
+4. Click on **Project** at the menu bar, then click on **Import project(.aia) from my computer...**.
 5. Click on **Choose File** button, select **"MyBMIUSR_Awan.aia"** and click **OK**.
 6. Go to **Project** again, select **My projects** and click on **"MyBMIUSR_Awan.aia"**.
 7. After the code has fully opened, click **Connect** on the menu bar, and select **AI Companion**.
